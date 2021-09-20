@@ -33,10 +33,11 @@ In this project, I have developed a Convolutional Based Neural Network Deep Lear
 <hr>
 <h2>Screenshots of the Web-Application</h2>
 <b><p>Initial Page/Landing Page</p></b>
-
+<img src="https://github.com/anshuljain2607/COVID-Detection-using-Deep-Learning/blob/master/Screenshots/1.PNG">
 <b><p>Uploading the X-Ray Image</p></b>
-
+<img src="https://github.com/anshuljain2607/COVID-Detection-using-Deep-Learning/blob/master/Screenshots/2.PNG">
 <b><p>Printing the Prediction.</p></b>
+<img src="https://github.com/anshuljain2607/COVID-Detection-using-Deep-Learning/blob/master/Screenshots/3.PNG">
 <hr>
 <h2>Running the Project</h2>
 <p><b>1. Accesing the website online </b></p>

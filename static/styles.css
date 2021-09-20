@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+    letter-spacing: 3px;
+    background-color: #eeebdd;
+}
+
+#header{
+    background-color: #3a6351;
+    color: #fff;
+    font-size: 1.3rem;
+    padding: 1%;
+    text-align: center;
+}
+
+#footer{
+    background-color: #3a6351;
+    color: #fff;
+    font-size: 1rem;
+    padding: 1%;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+}
+
+#Data{
+    margin: 1% 10% 1% 10%;
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 800;
+}
+
+#Data img{
+    height: 400px;
+}
+
+.btn{
+    font-size: large;
+    background-color: #810000;
+    color: #fff;
+    padding: 1%;
+    letter-spacing: 3px;
+    
+}
+
+form{
+    padding: 2%;
+    margin: 3%;
+    text-align: center;
+    border: 2px solid black;
+}
+
+#file{
+    width: 100%;
+    background-color: #eeebdd;
+    font-size: 1.3rem;
+    letter-spacing: 3px;
+    text-align: center;
+    border: 2px solid black;
+    margin: 1%;
+}
+
+img{
+    height: 400px;
+}

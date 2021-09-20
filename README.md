@@ -30,6 +30,9 @@ In this project, I have developed a Convolutional Based Neural Network Deep Lear
   <b> 4. Model Deployment </b> <br> <br> The model is saved in the form of "H5 File" and is deployed on the cloud, using Heroku Cloud Deployment, with the help of Flask Library of Python. <br> <br>
  
 </p>
+ <hr>
+ <h2>Diagrammatic Representation of Working</h2>
+ <img src="https://github.com/anshuljain2607/COVID-Detection-using-Deep-Learning/blob/master/Screenshots/Working.PNG">
 <hr>
 <h2>Screenshots of the Web-Application</h2>
 <b><p>Initial Page/Landing Page</p></b>
@@ -45,10 +48,13 @@ In this project, I have developed a Convolutional Based Neural Network Deep Lear
  <p><b>2. Copying to local repository </b></p>
   <p> In your terminal run the following commands : <br><br>
      <b>
-     git clone https://git.heroku.com/brain-tumor-classifier1.git<br>
-     cd brain-tumor-classifier1<br>
+     git clone https://github.com/anshuljain2607/COVID-Detection-using-Deep-Learning.git<br>
+     cd COVID-Detection-using-Deep-Learning<br>
      python app.py<br>
      Open https://localhost:3000 <br>
      </b>
   </p>
+ <hr>
+ <h2>Contributors</h2>
+ <p><a href="https://github.com/anshuljain2607">Anshul Jain</a></p>
  <hr>
